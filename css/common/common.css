@@ -1,0 +1,47 @@
+
+body {font: 12px/1.5 "Varela Round", "Din Display Pro Bold",arial,sans-serif;background-color: #fff;}
+
+/* +++++++++++++
+ * clear float +
+ * +++++++++++++
+*/
+.clear {clear: both;}
+.clearfix:after, .clearfix:after {content: " ";display: table;}
+.clearfix:after {clear: both;*zoom: 1;}
+
+/* +++++++++++++
+ * set display +
+ * +++++++++++++
+*/
+.hide {display: none;}
+.disvisible {visibility: hidden;}
+
+/* +++++++++
+ * header ++
+ * +++++++++
+*/
+#header {width: 500px;margin: 0 auto;}
+.header_nav li {float: left;border-bottom: 1px solid #e5e5e5;text-transform: uppercase;letter-spacing: 1px;}
+.header_nav li a {display: block;color: #7a868c;padding: 20px 25px;}
+.header_nav li a:hover, .header_nav li a.active {color: #000;}
+.logo {display: block;width: 334px;height: 260px;margin: 0 auto;background: url(../../images/common/logo.png) no-repeat center;}
+
+/* +++++++
+ * mian ++
+ * +++++++
+*/
+#main {width: 100%;background-color: #f5f5f5;min-height: 200px;}
+.home_main_list {width: 600px;height: 100px;margin: 0 auto;}
+.home_main_list li {float: left;background-color: #fff;width: 100px;height: 100px;}
+.odd_list .odd, .even_list .even {background-color: #f5f5f5;}
+
+/* ++++++++
+ * footer ++
+ * +++++++++
+*/
+#footer {text-align: center;}
+.footer_nav {padding-top: 20px;}
+.footer_nav li {display: inline-block;*display: inline;etter-spacing: 1px;}
+.footer_nav li a {display: block;color: #7a868c;padding: 10px 20px;font-size: 12px;}
+.footer_nav li a:hover {color: #000;}
+.copy_right {color: #7a868c;font-size: 10px;}

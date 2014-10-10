@@ -1,0 +1,10 @@
+/* +++++++++++++
+ * reset style +
+ * +++++++++++++
+ */
+* {padding: 0;margin: 0;}
+ul, li {list-style: none;}
+img {border: none;}
+table {border-spacing: 0;border-collapse: collapse;}
+a {text-decoration: none;}
+::selection {background-color: yellow;}

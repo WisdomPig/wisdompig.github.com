@@ -1,4 +1,5 @@
-wisdompig.github.com
-====================
+I am frend
+=====
 
-home page
+This is my home page.
+Say hello to me!
