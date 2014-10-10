@@ -1,4 +1,4 @@
 wisdompig.github.com
 ====================
 
-test page
+home page
